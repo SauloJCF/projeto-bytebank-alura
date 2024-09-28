@@ -13,3 +13,6 @@ contaCorrente1.transferir(300, contaCorrente2);
 
 console.log(contaCorrente1);
 console.log(contaCorrente2);
+
+console.log(ContaCorrente.numeroDeContas);
+
